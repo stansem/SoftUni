@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\bin\Debug\9 - TerroristsWin.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\bin\Debug\9 - TerroristsWin.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\bin\Debug\9 - TerroristsWin.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\obj\Debug\9 - TerroristsWin.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\obj\Debug\9 - TerroristsWin.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\9 - TerroristsWin\obj\Debug\9 - TerroristsWin.pdb

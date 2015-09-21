@@ -1,0 +1,5 @@
+/media/stambeto/4CC60CF8C60CE3D4/Станимир/Програмиране/#SOFTUNI/Data Structures/4 - Trees/Excercise/Binary-Tree/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/stambeto/4CC60CF8C60CE3D4/Станимир/Програмиране/#SOFTUNI/Data Structures/4 - Trees/Excercise/Binary-Tree/bin/Debug/Trees.exe.mdb
+/media/stambeto/4CC60CF8C60CE3D4/Станимир/Програмиране/#SOFTUNI/Data Structures/4 - Trees/Excercise/Binary-Tree/bin/Debug/Trees.exe
+/media/stambeto/4CC60CF8C60CE3D4/Станимир/Програмиране/#SOFTUNI/Data Structures/4 - Trees/Excercise/Binary-Tree/obj/Debug/Trees.exe
+/media/stambeto/4CC60CF8C60CE3D4/Станимир/Програмиране/#SOFTUNI/Data Structures/4 - Trees/Excercise/Binary-Tree/obj/Debug/Trees.exe.mdb

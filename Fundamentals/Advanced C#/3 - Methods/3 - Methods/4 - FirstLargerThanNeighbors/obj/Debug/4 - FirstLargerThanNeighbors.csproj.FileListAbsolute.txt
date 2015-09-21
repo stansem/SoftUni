@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\4 - FirstLargerThanNeighbors\bin\Debug\4 - FirstLargerThanNeighbors.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\4 - FirstLargerThanNeighbors\bin\Debug\4 - FirstLargerThanNeighbors.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\4 - FirstLargerThanNeighbors\bin\Debug\4 - FirstLargerThanNeighbors.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\4 - FirstLargerThanNeighbors\obj\Debug\4 - FirstLargerThanNeighbors.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\4 - FirstLargerThanNeighbors\obj\Debug\4 - FirstLargerThanNeighbors.pdb

@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\PathsInMatrix\bin\Debug\PathsInMatrix.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\PathsInMatrix\obj\Debug\PathsInMatrix.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\PathsInMatrix\obj\Debug\PathsInMatrix.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\PathsInMatrix\bin\Debug\PathsInMatrix.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\PathsInMatrix\bin\Debug\PathsInMatrix.pdb

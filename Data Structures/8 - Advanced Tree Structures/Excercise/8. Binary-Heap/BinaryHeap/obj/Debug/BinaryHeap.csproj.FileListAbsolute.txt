@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\Excercise\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.pdb

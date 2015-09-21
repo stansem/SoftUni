@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\5 - ReverseNumber\bin\Debug\5 - ReverseNumber.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\5 - ReverseNumber\bin\Debug\5 - ReverseNumber.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\5 - ReverseNumber\bin\Debug\5 - ReverseNumber.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\5 - ReverseNumber\obj\Debug\5 - ReverseNumber.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\5 - ReverseNumber\obj\Debug\5 - ReverseNumber.pdb

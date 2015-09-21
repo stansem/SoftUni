@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\2 - LastDigit\bin\Debug\2 - LastDigit.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\2 - LastDigit\bin\Debug\2 - LastDigit.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\2 - LastDigit\bin\Debug\2 - LastDigit.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\2 - LastDigit\obj\Debug\2 - LastDigit.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\2 - LastDigit\obj\Debug\2 - LastDigit.pdb

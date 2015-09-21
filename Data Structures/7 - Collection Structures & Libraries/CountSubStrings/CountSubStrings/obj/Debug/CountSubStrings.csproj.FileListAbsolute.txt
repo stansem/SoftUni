@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\bin\Debug\CountSubStrings.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\bin\Debug\CountSubStrings.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\bin\Debug\CountSubStrings.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\obj\Debug\CountSubStrings.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\obj\Debug\CountSubStrings.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\7 - Collection Structures & Libraries\CountSubStrings\CountSubStrings\obj\Debug\CountSubStrings.pdb

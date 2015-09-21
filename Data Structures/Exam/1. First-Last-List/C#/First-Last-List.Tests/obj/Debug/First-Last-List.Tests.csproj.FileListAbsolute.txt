@@ -1,0 +1,8 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\1. First-Last-List\C#\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb

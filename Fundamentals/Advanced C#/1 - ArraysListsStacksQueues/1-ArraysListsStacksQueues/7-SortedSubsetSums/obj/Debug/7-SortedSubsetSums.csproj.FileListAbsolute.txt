@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\bin\Debug\7-SortedSubsetSums.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\bin\Debug\7-SortedSubsetSums.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\bin\Debug\7-SortedSubsetSums.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\obj\Debug\7-SortedSubsetSums.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\obj\Debug\7-SortedSubsetSums.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\7-SortedSubsetSums\obj\Debug\7-SortedSubsetSums.csprojResolveAssemblyReference.cache

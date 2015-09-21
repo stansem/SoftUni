@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\bin\Debug\FindTheRoot.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\FindTheRoot\FindTheRoot\obj\Debug\FindTheRoot.pdb

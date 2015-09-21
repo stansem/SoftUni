@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\bin\Debug\LinkedStack.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\bin\Debug\LinkedStack.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\bin\Debug\LinkedStack.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\obj\Debug\LinkedStack.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\obj\Debug\LinkedStack.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\LinkedStack\LinkedStack\LinkedStack\obj\Debug\LinkedStack.pdb

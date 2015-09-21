@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\bin\Debug\10-PythagoreanNumbers.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\bin\Debug\10-PythagoreanNumbers.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\bin\Debug\10-PythagoreanNumbers.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\obj\Debug\10-PythagoreanNumbers.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\obj\Debug\10-PythagoreanNumbers.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\10-PythagoreanNumbers\obj\Debug\10-PythagoreanNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\7 - PhoneBook\bin\Debug\7 - PhoneBook.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\7 - PhoneBook\bin\Debug\7 - PhoneBook.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\7 - PhoneBook\bin\Debug\7 - PhoneBook.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\7 - PhoneBook\obj\Debug\7 - PhoneBook.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\7 - PhoneBook\obj\Debug\7 - PhoneBook.pdb

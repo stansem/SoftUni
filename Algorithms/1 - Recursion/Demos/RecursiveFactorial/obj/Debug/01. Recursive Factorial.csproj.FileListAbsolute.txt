@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\RecursiveFactorial\obj\Debug\01. Recursive Factorial.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

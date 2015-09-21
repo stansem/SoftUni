@@ -1,0 +1,7 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\bin\Debug\Trees.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\bin\Debug\Trees.Tests.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\bin\Debug\Trees.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\bin\Debug\Trees.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\Excercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.pdb

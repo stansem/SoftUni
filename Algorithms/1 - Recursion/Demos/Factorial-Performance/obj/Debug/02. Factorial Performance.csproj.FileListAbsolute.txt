@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Factorial-Performance\bin\Debug\Factorial-Performance.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Factorial-Performance\bin\Debug\Factorial-Performance.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Factorial-Performance\obj\Debug\02. Factorial Performance.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Factorial-Performance\obj\Debug\Factorial-Performance.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Factorial-Performance\obj\Debug\Factorial-Performance.pdb

@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\3-CatMinMaxAvg\bin\Debug\3-CatMinMaxAvg.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\3-CatMinMaxAvg\bin\Debug\3-CatMinMaxAvg.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\3-CatMinMaxAvg\bin\Debug\3-CatMinMaxAvg.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\3-CatMinMaxAvg\obj\Debug\3-CatMinMaxAvg.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\3-CatMinMaxAvg\obj\Debug\3-CatMinMaxAvg.pdb

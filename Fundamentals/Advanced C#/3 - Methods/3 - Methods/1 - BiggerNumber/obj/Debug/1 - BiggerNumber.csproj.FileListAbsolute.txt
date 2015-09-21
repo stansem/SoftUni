@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\1 - BiggerNumber\bin\Debug\1 - BiggerNumber.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\1 - BiggerNumber\bin\Debug\1 - BiggerNumber.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\1 - BiggerNumber\bin\Debug\1 - BiggerNumber.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\1 - BiggerNumber\obj\Debug\1 - BiggerNumber.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\1 - BiggerNumber\obj\Debug\1 - BiggerNumber.pdb

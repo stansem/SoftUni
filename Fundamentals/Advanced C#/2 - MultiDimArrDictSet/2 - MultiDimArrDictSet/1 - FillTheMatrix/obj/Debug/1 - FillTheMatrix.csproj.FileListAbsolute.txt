@@ -1,0 +1,9 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\bin\Debug\1 - FillTheMatrix.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\bin\Debug\1 - FillTheMatrix.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\bin\Debug\1 - FillTheMatrix.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\obj\Debug\1 - FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\obj\Debug\1 - FillTheMatrix.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\1 - FillTheMatrix\1 - FillTheMatrix\obj\Debug\1 - FillTheMatrix.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\1 - FillTheMatrix\bin\Debug\1 - FillTheMatrix.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\1 - FillTheMatrix\obj\Debug\1 - FillTheMatrix.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\1 - FillTheMatrix\obj\Debug\1 - FillTheMatrix.pdb

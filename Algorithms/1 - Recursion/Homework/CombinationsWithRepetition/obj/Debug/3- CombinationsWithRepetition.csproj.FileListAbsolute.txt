@@ -1,0 +1,3 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

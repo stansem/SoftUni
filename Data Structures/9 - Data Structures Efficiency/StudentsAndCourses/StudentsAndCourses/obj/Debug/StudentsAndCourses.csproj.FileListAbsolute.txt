@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\bin\Debug\StudentsAndCourses.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\StudentsAndCourses\StudentsAndCourses\obj\Debug\StudentsAndCourses.pdb

@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\bin\Debug\ReversedList.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\obj\Debug\ReversedList.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\bin\Debug\ReversedList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\bin\Debug\ReversedList.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\obj\Debug\ReversedList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\ReversedList\ReversedList\ReversedList\obj\Debug\ReversedList.pdb

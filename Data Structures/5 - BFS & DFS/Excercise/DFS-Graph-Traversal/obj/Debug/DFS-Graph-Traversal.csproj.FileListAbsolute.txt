@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\Excercise\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\Excercise\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\Excercise\DFS-Graph-Traversal\obj\Debug\DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\Excercise\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\5 - BFS & DFS\Excercise\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

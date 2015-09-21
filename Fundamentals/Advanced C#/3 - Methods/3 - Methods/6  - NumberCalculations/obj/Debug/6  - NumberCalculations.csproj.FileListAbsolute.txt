@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\6  - NumberCalculations\bin\Debug\6  - NumberCalculations.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\6  - NumberCalculations\bin\Debug\6  - NumberCalculations.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\6  - NumberCalculations\bin\Debug\6  - NumberCalculations.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\6  - NumberCalculations\obj\Debug\6  - NumberCalculations.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\6  - NumberCalculations\obj\Debug\6  - NumberCalculations.pdb

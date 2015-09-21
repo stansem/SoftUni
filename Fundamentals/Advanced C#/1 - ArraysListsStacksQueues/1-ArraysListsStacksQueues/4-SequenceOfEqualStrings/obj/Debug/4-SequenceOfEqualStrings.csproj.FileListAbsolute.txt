@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\4-SequenceOfEqualStrings\bin\Debug\4-SequenceOfEqualStrings.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\4-SequenceOfEqualStrings\bin\Debug\4-SequenceOfEqualStrings.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\4-SequenceOfEqualStrings\bin\Debug\4-SequenceOfEqualStrings.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\4-SequenceOfEqualStrings\obj\Debug\4-SequenceOfEqualStrings.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\4-SequenceOfEqualStrings\obj\Debug\4-SequenceOfEqualStrings.pdb

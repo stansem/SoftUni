@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Binary-Tree/Trees.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Binary-Tree/PlayWithTrees.cs">
+    <Files>
+      <File FileName="Binary-Tree/Tree.cs" Line="26" Column="33" />
+      <File FileName="Binary-Tree/PlayWithTrees.cs" Line="17" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Trees" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

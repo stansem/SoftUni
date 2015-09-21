@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\Excercise\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\Excercise\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\Excercise\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\Excercise\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\2 - Lists\Excercise\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

@@ -1,0 +1,8 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\bin\Debug\Exam.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\bin\Debug\Exam.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\bin\Debug\Exam.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\obj\Debug\Exam.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\obj\Debug\Exam.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\Exam\Exam\bin\Debug\SoftUni.Wintellect.PowerCollections.xml

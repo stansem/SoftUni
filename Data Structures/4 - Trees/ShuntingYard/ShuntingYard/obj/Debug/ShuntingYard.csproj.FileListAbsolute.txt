@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\bin\Debug\ShuntingYard.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\4 - Trees\ShuntingYard\ShuntingYard\obj\Debug\ShuntingYard.pdb

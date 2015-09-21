@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Generating-Combinations\bin\Debug\Generating-Combinations.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Generating-Combinations\bin\Debug\Generating-Combinations.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Generating-Combinations\obj\Debug\06. Generating Combinations.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Generating-Combinations\obj\Debug\Generating-Combinations.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Demos\Generating-Combinations\obj\Debug\Generating-Combinations.pdb

@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\bin\Debug\13 - ActivityTracker.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\bin\Debug\13 - ActivityTracker.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\bin\Debug\13 - ActivityTracker.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\obj\Debug\13 - ActivityTracker.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\obj\Debug\13 - ActivityTracker.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\2 - MultiDimArrDictSet\2 - MultiDimArrDictSet\13 - ActivityTracker\obj\Debug\13 - ActivityTracker.pdb

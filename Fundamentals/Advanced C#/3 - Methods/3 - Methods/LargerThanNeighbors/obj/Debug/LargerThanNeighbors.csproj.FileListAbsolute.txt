@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\LargerThanNeighbors\bin\Debug\LargerThanNeighbors.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\LargerThanNeighbors\bin\Debug\LargerThanNeighbors.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\LargerThanNeighbors\bin\Debug\LargerThanNeighbors.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\LargerThanNeighbors\obj\Debug\LargerThanNeighbors.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\LargerThanNeighbors\obj\Debug\LargerThanNeighbors.pdb

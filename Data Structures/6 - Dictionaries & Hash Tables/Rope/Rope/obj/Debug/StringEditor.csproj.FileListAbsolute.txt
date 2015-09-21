@@ -1,0 +1,8 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\bin\Debug\Rope.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\bin\Debug\Rope.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\bin\Debug\Rope.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\bin\Debug\PowerCollections.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\bin\Debug\PowerCollections.xml
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\obj\Debug\StringEditor.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\obj\Debug\Rope.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\6 - Dictionaries & Hash Tables\Rope\Rope\obj\Debug\Rope.pdb

@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceQueue\NMSequenceQueue\bin\Debug\NMSequenceQueue.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceQueue\NMSequenceQueue\bin\Debug\NMSequenceQueue.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceQueue\NMSequenceQueue\bin\Debug\NMSequenceQueue.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceQueue\NMSequenceQueue\obj\Debug\NMSequenceQueue.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceQueue\NMSequenceQueue\obj\Debug\NMSequenceQueue.pdb

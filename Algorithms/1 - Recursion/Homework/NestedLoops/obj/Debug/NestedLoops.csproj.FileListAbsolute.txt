@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\NestedLoops\bin\Debug\NestedLoops.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\NestedLoops\bin\Debug\NestedLoops.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\NestedLoops\obj\Debug\NestedLoops.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\NestedLoops\obj\Debug\NestedLoops.pdb

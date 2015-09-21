@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\bin\Debug\AATree.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\bin\Debug\AATree.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\bin\Debug\AATree.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\obj\Debug\AATree.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\obj\Debug\AATree.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\8 - Advanced Tree Structures\AATree\AATree\obj\Debug\AATree.pdb

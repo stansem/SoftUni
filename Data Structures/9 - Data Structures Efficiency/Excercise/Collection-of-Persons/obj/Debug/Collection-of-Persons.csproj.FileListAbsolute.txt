@@ -1,0 +1,7 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\bin\Debug\Collection-of-Persons.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\bin\Debug\Collection-of-Persons.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\bin\Debug\Collection-of-Persons.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\bin\Debug\PowerCollections.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\obj\Debug\Collection-of-Persons.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\obj\Debug\Collection-of-Persons.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\9 - Data Structures Efficiency\Excercise\Collection-of-Persons\obj\Debug\Collection-of-Persons.pdb

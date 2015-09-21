@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\8-LegoBlocks\bin\Debug\8-LegoBlocks.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\8-LegoBlocks\bin\Debug\8-LegoBlocks.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\8-LegoBlocks\bin\Debug\8-LegoBlocks.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\8-LegoBlocks\obj\Debug\8-LegoBlocks.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\1 - ArraysListsStacksQueues\1-ArraysListsStacksQueues\8-LegoBlocks\obj\Debug\8-LegoBlocks.pdb

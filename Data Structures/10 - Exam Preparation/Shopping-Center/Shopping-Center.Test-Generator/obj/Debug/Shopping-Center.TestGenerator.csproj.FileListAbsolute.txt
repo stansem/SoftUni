@@ -1,0 +1,9 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.Tests.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\PowerCollections.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Shopping-Center.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.TestGenerator.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.Tests.dll
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\obj\Debug\Shopping-Center.Tests.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\10 - Exam Preparation\Shopping-Center\Shopping-Center.Test-Generator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Станимир\Програмиране\#SOFTUNI\Algorithms\1 - Recursion\Homework\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

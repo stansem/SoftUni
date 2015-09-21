@@ -1,0 +1,6 @@
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\bin\Debug\NMSequenceList.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\bin\Debug\NMSequenceList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\bin\Debug\NMSequenceList.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\obj\Debug\NMSequenceList.csprojResolveAssemblyReference.cache
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\obj\Debug\NMSequenceList.exe
+D:\Станимир\Програмиране\#SOFTUNI\Data Structures\3 - Stacks and Queues\NMSequenceList\NMSequenceList\NMSequenceList\obj\Debug\NMSequenceList.pdb

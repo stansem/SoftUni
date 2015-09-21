@@ -1,0 +1,5 @@
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\7 - GenericArrSort\bin\Debug\7 - GenericArrSort.exe.config
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\7 - GenericArrSort\bin\Debug\7 - GenericArrSort.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\7 - GenericArrSort\bin\Debug\7 - GenericArrSort.pdb
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\7 - GenericArrSort\obj\Debug\7 - GenericArrSort.exe
+D:\Станимир\Програмиране\#SOFTUNI\Fundamentals\Advanced C#\3 - Methods\3 - Methods\7 - GenericArrSort\obj\Debug\7 - GenericArrSort.pdb
